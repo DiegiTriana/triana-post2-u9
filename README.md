@@ -1,6 +1,5 @@
 # Productos Service
 
-![CI](https://github.com/DiegiTriana/triana-patrones-post2-u9/actions/workflows/ci.yml/badge.svg)
 
 Microservicio de gestion de productos para la actividad U9 Post-Contenido 2, con pruebas unitarias e integracion, cobertura JaCoCo y pipeline de CI en GitHub Actions.
 
@@ -21,10 +20,10 @@ mvn verify
 
 ## Cobertura
 
-![Captura JaCoCo](docs/jacoco-report.png)
+![Captura JaCoCo](docs/test-verify-aprobado.png)
 
 Cobertura de lineas en `ProductoServiceImpl`: **85.71%**.
 
 ## Evidencia pruebas en verde
 
-![Maven verify success](docs/mvn-verify-success.png)
+![Maven verify success](docs/test-aprobado.png)
